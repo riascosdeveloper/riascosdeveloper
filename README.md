@@ -1,9 +1,8 @@
 <h1 align="center">Oscar Riascos</h1>  
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Frontend developer (web/mobile)</h3>
 
-- 🌱 Aprendiendo **React** y **Nextjs**
   
-- 💬 Mis fuertes son, **Svelte**, **Php**, **Javascript** y **SQL**
-  
-- 📫 Me puedes contactar <a href="mailto:oscar_riascos@outlook.com" target="_blank">**aquí**</a>
+- 🔥 Current Stack: **Svelte**, **React**, **ViteJs**, **Typescript**
+- 👨🏻‍💻 Also: **Php**, **Javascript** y **SQL**, **Linux**.
+- 📫 Send me a email <a href="mailto:oscar_riascos@outlook.com" target="_blank">**here**</a>
   
